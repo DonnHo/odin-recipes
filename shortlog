@@ -1,0 +1,95 @@
+[33mcommit a6af74f789f873a5d18d92d630968c1c43a45c57[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:59:23 2022 +0800
+
+    Edit Ingredients and Toppings list
+
+[33mcommit 62517b32369c1ea1ec64ec02d5aec2664a0abfe2[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:58:09 2022 +0800
+
+    Edit steps list
+
+[33mcommit 52596e8a3e31419ec98de6bead7385306910196c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:55:33 2022 +0800
+
+    Add image and tips when cooking patties
+
+[33mcommit 8140e8e6acc1f9b2fb7af056d0708265a7bc4de0[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:50:53 2022 +0800
+
+    Add ingredients, toppings and steps for cooking
+
+[33mcommit 7b659d9a91513bef7b51b4ef7549a359067d3b93[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:42:22 2022 +0800
+
+    Add description and image to burger.html
+
+[33mcommit 7033e91c43d58583ecf5b4ecdeb8e032186fbda3[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:28:49 2022 +0800
+
+    Add unordered and ordered list
+
+[33mcommit a58682ae0f8ee467d2e85f97b653e3e28f3fc042[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:25:56 2022 +0800
+
+    Add ingredients heading
+
+[33mcommit 26653899f410f88243f8483b22e571a84deef08a[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:18:09 2022 +0800
+
+    Add description heading and body
+
+[33mcommit 22ab7bab4602d9542f75601f27c66255f73b4ebe[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:12:35 2022 +0800
+
+    Change image size
+
+[33mcommit e7420107ff3e9a724d4cee2b5859c0533b2116ed[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:07:43 2022 +0800
+
+    Add image to carbonara
+
+[33mcommit 46c1a089dd6bbcd2423578dbd340696df9910301[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Fri Mar 11 21:06:38 2022 +0800
+
+    Create file for images
+
+[33mcommit e1879e041a230992f926337eeed33ca7a6f74b58[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Thu Mar 10 22:46:37 2022 +0800
+
+    Remove : from lang value typo
+
+[33mcommit b0f28908998ed0a621e996b4088d81eb7e1a9d45[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Thu Mar 10 22:44:20 2022 +0800
+
+    Save file
+
+[33mcommit e36d36639d4461249e0df0aef29e754fd68d0e45[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Thu Mar 10 22:43:16 2022 +0800
+
+    Add hyperlink to carbonara page
+
+[33mcommit 65157dd9c08f1cc15c01eb753aee12ea206c8b52[m
+Author: DonnHo <brandonhojj@gmail.com>
+Date:   Thu Mar 10 22:38:23 2022 +0800
+
+    Create html index and recipes html files
+
+[33mcommit 5c09beeefcad9363daa485f3ae82ebb59376fc27[m
+Author: DonnHo <101173438+DonnHo@users.noreply.github.com>
+Date:   Thu Mar 10 22:01:01 2022 +0800
+
+    Initial commit
