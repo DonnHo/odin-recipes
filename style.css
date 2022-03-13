@@ -1,0 +1,14 @@
+/* style.css */
+
+.title {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 242, 184);
+}
+
+.header.main {
+    background-color: rgb(255, 129, 40);
+    
+}
